@@ -1,0 +1,19 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "null",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litaishuai/training.git"
+  },
+  "author": "lishuai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litaishuai/training/issues"
+  },
+  "homepage": "https://github.com/litaishuai/training#readme"
+}
